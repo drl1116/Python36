@@ -1,4 +1,4 @@
-# --coding:utf-8--
+# -*- coding: utf-8 -*-
 print('Hello World')
 
 a = input("请输入：")
